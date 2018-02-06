@@ -2,7 +2,7 @@
 
 A web app to predict savings on electricity costs using battery storage.
 
-Visit the [web app](www.batteryplanner.tech)
+Visit the [web app](http://www.batteryplanner.tech)
 
 See how I implemented it on [Google slides](https://goo.gl/Deh9AV) 
 
